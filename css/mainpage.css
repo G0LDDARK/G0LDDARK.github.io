@@ -1,0 +1,50 @@
+a{text-decoration:none; color:whitesmoke;}
+a:hover{color: #e1f114;}
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #000000dc;
+}
+
+header{
+    color: whitesmoke;
+    margin: 16px;
+    padding: 25px;
+    text-align: center;
+    background-color: #5e5f68;
+}
+
+main{
+    color: whitesmoke;
+}
+
+footer{
+    padding: 9px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.mkSpace{
+    height: 450px;
+}
+
+.fakeimg{
+    height:250px;
+    width:250px;
+    background-color: gray;
+}
+
+.left{
+    padding-left: 25px;
+    padding-bottom: 10px;
+    text-align: left;
+    float: left;
+}
+  
+.right {
+    padding-right: 25px;
+    padding-bottom: 10px;
+    /* Калашников */
+    text-align: right;
+    float: right;
+}
